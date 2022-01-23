@@ -1,4 +1,16 @@
-## timetables
+## Timetables
+
+Forked from: [https://github.com/Hzy0913/Timetable](https://github.com/Hzy0913/Timetable)
+
+This is a modified version of [Timetable](https://github.com/Hzy0913/Timetable)。Modifications are:
+- Allow multiple courses appeared at the same time (timetableList can contains both String and array now)
+- callback gridOnClick's argument only contains the name of the course
+
+**The property `merge` only can be true now, as I haven't implemented it yet.**
+
+The contents below is the original readme.
+
+---
 
 timetable plugin, preview [demo1](http://preview.binlive.cn/Timetables/index.html "demo1") 、[demo2](http://preview.binlive.cn/Timetables/example.html "demo1")
 

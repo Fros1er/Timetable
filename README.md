@@ -1,6 +1,18 @@
-
 ## Timetables
 [English Docs](https://github.com/Hzy0913/Timetable/blob/master/README.en.md "English Docs")
+
+原repo: [https://github.com/Hzy0913/Timetable](https://github.com/Hzy0913/Timetable)
+
+fork过来根据自己的需要改了一下。改动包括：
+- 允许同一时间出现多门课（List中现在可以包含字符串或数组）
+- gridOnClick函数现在只提供name
+
+### 注意事项
+现在只支持合并日程，不合并的还没写。。。。
+
+以下是原项目的Readme。
+
+---
 
 日程表插件，在线预览 [demo1](http://preview.binlive.cn/Timetables/index.html "demo1") 、[demo2](http://preview.binlive.cn/Timetables/example.html "demo1")
 
