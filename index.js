@@ -160,7 +160,7 @@
                   mergeDom.style.backgroundColor = palette[paletteIndex];
                   mergeDom.style.color = '#fff';
                   paletteIndex++;
-                  if (paletteIndex > palette.length) {
+                  if (paletteIndex >= palette.length) {
                     paletteIndex = 0;
                   }
                 }
